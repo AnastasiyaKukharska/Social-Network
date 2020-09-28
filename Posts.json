@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5f6f1cc80d675a2d02360e33"
+  },
+  "body": "Today It's soo windy!",
+  "tags": [
+    "weather",
+    "brr"
+  ],
+  "date": "Sat Sep 26 2020 13:49:44 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Maria",
+    "surname": "Duma"
+  },
+  "comments": [
+    {
+      "body": "Totally agree!",
+      "name": "Pavlo",
+      "surname": "Kozak",
+      "date": "Sat Sep 26 2020 13:49:44 GMT+0300"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6f1e7f0d675a2d02360e34"
+  },
+  "body": "Happy b-day to me!",
+  "tags": [
+    "gifts",
+    "celebrating"
+  ],
+  "date": "Sat Sep 26 2020 13:57:03 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Pavlo",
+    "surname": "Kozak"
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "5f6f228c0d675a2d02360e36"
+  },
+  "body": "Please,recommend me some interesting books. I will be very grateful)",
+  "tags": [],
+  "date": "Sat Sep 26 2020 14:14:20 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Pavlo",
+    "surname": "Kozak"
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "5f6f22f40d675a2d02360e37"
+  },
+  "body": "What do you thik about new library? Is it worth to visit?",
+  "tags": [],
+  "date": "Sat Sep 26 2020 14:16:04 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Kaleb",
+    "surname": "Rak"
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "5f6f23570d675a2d02360e38"
+  },
+  "body": "The trip was amazing! If you visit Germany one day,you must see that castle",
+  "tags": [
+    "travelTheWorld"
+  ],
+  "date": "Sat Sep 26 2020 14:17:43 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Ira",
+    "surname": "Baskervill"
+  },
+  "comments": []
+}]
