@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "5f6d0bf949b1ccf972625a2c"
+  },
+  "name": "Pavlo",
+  "surname": "Kozak",
+  "email": "pavlo.kozak@gmail.com",
+  "password": "12345",
+  "interests": [
+    "films",
+    "photography",
+    "basketball"
+  ],
+  "users": [
+    {
+      "name": "Maria",
+      "surname": "Duma"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d0e0949b1ccf972625a2d"
+  },
+  "name": "Maria",
+  "surname": "Duma",
+  "email": "princess@gmail.com",
+  "password": "7654TY",
+  "interests": [
+    "cartoons",
+    "books"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d0f8049b1ccf972625a2e"
+  },
+  "name": "Oleg",
+  "surname": "Torskyy",
+  "email": "oleg.T@gmail.com",
+  "password": "kas1l34",
+  "interests": [
+    "stamps",
+    "sport"
+  ],
+  "users": [
+    {
+      "_id": null,
+      "name": "Pavlo",
+      "surname": "Kozak",
+      "interests": null,
+      "email": null,
+      "password": null,
+      "users": null
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d0fe149b1ccf972625a2f"
+  },
+  "name": "Emma",
+  "surname": "Rassel",
+  "email": "emma2000@gmail.com",
+  "password": "654321",
+  "interests": [
+    "TRAVELS!"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d14d849b1ccf972625a30"
+  },
+  "name": "Kaleb",
+  "surname": "Rak",
+  "email": "rak@gmail.com",
+  "password": "lk2gh",
+  "interests": [
+    "dancing",
+    "jazz"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d156749b1ccf972625a31"
+  },
+  "name": "Ira",
+  "surname": "Baskervill",
+  "email": "ira.baskervill@gmail.com",
+  "password": "1331",
+  "interests": [
+    "shopping",
+    "poems",
+    "tennis"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d16ab49b1ccf972625a32"
+  },
+  "name": "Maxym",
+  "surname": "Vatra",
+  "email": "max2001@gmail.com",
+  "password": "A4A4A4",
+  "interests": [
+    "computer games",
+    "films",
+    "soccer"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d173749b1ccf972625a33"
+  },
+  "name": "Julia",
+  "surname": "Lozynska",
+  "email": "julia.L@gmail.com",
+  "password": "CarVen3",
+  "interests": [
+    "computer games",
+    "ballet"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d186049b1ccf972625a34"
+  },
+  "name": "Rostyslav",
+  "surname": "Zalisko",
+  "email": "Zalisko.R@gmail.com",
+  "password": "987655",
+  "interests": [
+    "comedy",
+    "cars"
+  ]
+},{
+  "_id": {
+    "$oid": "5f6d191b49b1ccf972625a35"
+  },
+  "name": "Olya",
+  "surname": "Bilynska",
+  "email": "Bilynska@gmail.com",
+  "password": "Drowssap9",
+  "interests": [
+    "volleyball"
+  ]
+}]

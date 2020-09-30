@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "5f6f1cc80d675a2d02360e33"
+  },
+  "body": "Today It's soo windy!",
+  "tags": [
+    "weather",
+    "brr"
+  ],
+  "date": "Sat Sep 26 2020 13:49:44 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Maria",
+    "surname": "Duma"
+  },
+  "comments": [
+    {
+      "body": "Totally agree!",
+      "name": "Pavlo",
+      "surname": "Kozak",
+      "date": "Sat Sep 26 2020 13:49:44 GMT+0300"
+    }
+  ],
+  "title": "forecast"
+},{
+  "_id": {
+    "$oid": "5f6f1e7f0d675a2d02360e34"
+  },
+  "body": "Happy b-day to me!",
+  "tags": [
+    "gifts",
+    "celebrating"
+  ],
+  "date": "Sat Sep 26 2020 13:57:03 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Pavlo",
+    "surname": "Kozak"
+  },
+  "comments": [],
+  "title": "Sweet 20"
+},{
+  "_id": {
+    "$oid": "5f6f228c0d675a2d02360e36"
+  },
+  "body": "Please,recommend me some interesting books. I will be very grateful)",
+  "tags": [],
+  "date": "Sat Sep 26 2020 14:14:20 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Pavlo",
+    "surname": "Kozak"
+  },
+  "comments": [],
+  "title": "reading"
+},{
+  "_id": {
+    "$oid": "5f6f22f40d675a2d02360e37"
+  },
+  "body": "What do you thik about new library? Is it worth to visit?",
+  "tags": [],
+  "date": "Sat Sep 26 2020 14:16:04 GMT+0300",
+  "likes": 0,
+  "user": {
+    "name": "Kaleb",
+    "surname": "Rak"
+  },
+  "comments": [],
+  "title": "New place"
+},{
+  "_id": {
+    "$oid": "5f6f23570d675a2d02360e38"
+  },
+  "body": "The trip was amazing! If you visit Germany one day,you must see that castle",
+  "tags": [
+    "travelTheWorld"
+  ],
+  "date": "Sat Sep 26 2020 14:17:43 GMT+0300",
+  "likes": 1,
+  "user": {
+    "name": "Ira",
+    "surname": "Baskervill"
+  },
+  "comments": [],
+  "title": "Germany"
+},{
+  "_id": {
+    "$oid": "5f73ab0d565b700809f6ce8a"
+  },
+  "body": "Pay attention on this task.Very interesting and complicated one.",
+  "title": "Math exercise ",
+  "user": {
+    "name": "Ira",
+    "surname": "Baskervill"
+  },
+  "tags": null,
+  "likes": 0,
+  "comments": null,
+  "date": {
+    "$date": "2020-09-29T21:45:49.056Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f73b43d4f320c9bee58549e"
+  },
+  "body": "Coronavirus statistic in Ukraine is very disappointing. Unfortunately, quarantine will continue.",
+  "title": "News",
+  "user": {
+    "name": "Oleg",
+    "surname": "Torskyy"
+  },
+  "tags": null,
+  "likes": 0,
+  "comments": [
+    {
+      "name": "Pavlo",
+      "surname": "Kozak",
+      "body": "So sad!",
+      "date": {
+        "$date": "2020-09-30T12:25:01.745Z"
+      }
+    }
+  ],
+  "date": {
+    "$date": "2020-09-29T22:25:01.745Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f73c7d47690db7061438409"
+  },
+  "user": {
+    "name": "Olya",
+    "surname": "Bilynska"
+  },
+  "title": "autumn",
+  "body": "It's time to buy warm sweaters!",
+  "date": {
+    "$date": "2020-09-30T01:25:01.745Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f73c8ea7690db706143840a"
+  },
+  "user": {
+    "name": "Olya",
+    "surname": "Bilynska"
+  },
+  "title": "coronavirus and travel",
+  "body": "Who know something about traveling abroad and coronavirus&",
+  "date": "Wed Sep 30 2020 02:53:14 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73c9527690db706143840b"
+  },
+  "user": {
+    "name": "Olya",
+    "surname": "Bilynska"
+  },
+  "title": "Suggestion",
+  "body": "Sleeping is very important for human healt and body.So,don't forget to sleep!",
+  "date": "Wed Sep 30 2020 02:54:58 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73ca6a7690db706143840c"
+  },
+  "user": {
+    "name": "Olya",
+    "surname": "Bilynska"
+  },
+  "title": "Computer repairing",
+  "body": "Repairing of computers.Good deal.Tel:09876543",
+  "date": "Wed Sep 30 2020 02:59:38 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cadd7690db706143840d"
+  },
+  "user": {
+    "name": "Maxym",
+    "surname": "Vatra"
+  },
+  "title": "Sunset",
+  "body": "You have an opportunity to see the most beautiful sunset in the world! Look on the photo",
+  "date": "Wed Sep 30 2020 03:01:33 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cb717690db706143840e"
+  },
+  "user": {
+    "name": "Maxym",
+    "surname": "Vatra"
+  },
+  "title": "Proverb",
+  "body": "A bird in hand is wort two in the blush",
+  "date": "Wed Sep 30 2020 03:04:01 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cbad7690db706143840f"
+  },
+  "user": {
+    "name": "Julia",
+    "surname": "Lozynska"
+  },
+  "title": "Proverb2",
+  "body": "A cat has nine lives",
+  "date": "Wed Sep 30 2020 03:05:01 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cbdc7690db7061438410"
+  },
+  "user": {
+    "name": "Julia",
+    "surname": "Lozynska"
+  },
+  "title": "Proverb3",
+  "body": "Actions speak louder than words",
+  "date": "Wed Sep 30 2020 03:05:48 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cc057690db7061438411"
+  },
+  "user": {
+    "name": "Julia",
+    "surname": "Lozynska"
+  },
+  "title": "Proverb4",
+  "body": "All's well that ends well",
+  "date": "Wed Sep 30 2020 03:06:29 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cc597690db7061438412"
+  },
+  "user": {
+    "name": "Emma",
+    "surname": "Rassel"
+  },
+  "title": "Proverb5",
+  "body": "Appearances can be deceptive",
+  "date": "Wed Sep 30 2020 03:07:53 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cc847690db7061438413"
+  },
+  "user": {
+    "name": "Emma",
+    "surname": "Rassel"
+  },
+  "title": "Proverb6",
+  "body": "Barking dogs seldom bite",
+  "date": "Wed Sep 30 2020 03:08:36 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73ccae7690db7061438414"
+  },
+  "user": {
+    "name": "Emma",
+    "surname": "Rassel"
+  },
+  "title": "Proverb7",
+  "body": "Better late than never",
+  "date": "Wed Sep 30 2020 03:09:18 GMT+0300"
+},{
+  "_id": {
+    "$oid": "5f73cced7690db7061438415"
+  },
+  "user": {
+    "name": "Maria",
+    "surname": "Duma"
+  },
+  "title": "Proverb8",
+  "body": "Curiosity killed the cat",
+  "date": "Wed Sep 30 2020 03:10:21 GMT+0300"
+}]
